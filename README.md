@@ -1,6 +1,6 @@
 <![CDATA[
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Alex%20Developer&fontSize=70&fontAlignY=35" alt="Profile Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Satyam%20Developer&fontSize=70&fontAlignY=35" alt="Profile Header"/>
 </div>
 
 # Hello, I'm Satyam Singh Yadav 👋
