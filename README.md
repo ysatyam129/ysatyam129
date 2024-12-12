@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Alex%20Developer&fontSize=70&fontAlignY=35" alt="Profile Header"/>
 </div>
 
-# Hello, I'm Alex Developer 👋
+# Hello, I'm Satyam Singh Yadav 👋
 
 <p align="center">
   <a href="https://github.com/alexdev"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 Full-Stack Developer | 💡 Problem Solver | 🌟 Open Source Enthusiast
+## 🚀 Full-Stack Developer | 💡 Problem Solver | 🌟 Open Source Enthusiast 
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
