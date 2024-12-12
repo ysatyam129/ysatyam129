@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <div align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=Your+Custom+Background+Image" alt="Background Image" width="100%"/>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=36BCF7FF&random=false&width=435&lines=Full+Stack+Developer;Problem+Solver;Continuous+Learner;Tech+Enthusiast" alt="Typing SVG" />
   <h1>Welcome to My GitHub Profile! 👋</h1>
   <p>🚀 Building meaningful projects and solving real-world problems.</p>
 </div>
