@@ -57,7 +57,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white%22%20alt=%22PostgreSQL" />
 </p>
 
 ---
