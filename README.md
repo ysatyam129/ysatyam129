@@ -1,4 +1,4 @@
-<![CDATA[
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Satyam%20Developer&fontSize=70&fontAlignY=35" alt="Profile Header"/>
 </div>
@@ -105,4 +105,4 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
 </div>
-]]>
+
