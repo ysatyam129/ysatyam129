@@ -167,9 +167,7 @@
 
 </div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexdev&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF" alt="Activity Graph" />
-</p>
+
 
 ---
 
