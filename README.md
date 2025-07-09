@@ -5,14 +5,14 @@
 # <div align="center">Hello, I'm Satyam Singh Yadav 👋</div>
 
 <p align="center">
-  <a href="https://github.com/alexdev"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=181717"/></a>
-  <a href="https://linkedin.com/in/alexdev"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=0077B5"/></a>
-  <a href="https://twitter.com/alexdev"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=1DA1F2"/></a>
+  <a href="https://github.com/satyamsinghyadav"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=181717"/></a>
+  <a href="https://linkedin.com/in/satyamsinghyadav"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=0077B5"/></a>
+  <a href="https://twitter.com/satyamsinghyadav"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=1DA1F2"/></a>
 </p>
 
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=alexdev&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=satyamsinghyadav&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
@@ -115,8 +115,8 @@
 </div>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexdev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexdev&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=satyamsinghyadav&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamsinghyadav&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
 </p>
 
 <p align="center">
