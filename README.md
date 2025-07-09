@@ -5,14 +5,14 @@
 # <div align="center">Hello, I'm Satyam Singh Yadav 👋</div>
 
 <p align="center">
-  <a href="https://github.com/satyamsinghyadav"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=181717"/></a>
-  <a href="https://linkedin.com/in/satyamsinghyadav"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=0077B5"/></a>
+  <a href="https://github.com/ysatyam129"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=181717"/></a>
+  <a href="https://www.linkedin.com/in/satyam-singh-yadav-b7a9a6257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=0077B5"/></a>
   <a href="https://twitter.com/satyamsinghyadav"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=1DA1F2"/></a>
 </p>
 
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=satyamsinghyadav&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ysatyam129&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
@@ -115,16 +115,16 @@
 </div>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=satyamsinghyadav&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamsinghyadav&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ysatyam129&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysatyam129&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexdev&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ysatyam129&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexdev&theme=github_dark" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysatyam129&theme=github_dark" alt="Profile Summary" />
 </p>
 
 ---
@@ -136,7 +136,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alexdev&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ysatyam129&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -155,7 +155,7 @@
 <summary><b>🎮 Interactive Snake Game</b></summary>
 <br>
 <p align="center">
-  <img src="https://github.com/alexdev/alexdev/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github.com/ysatyam129/ysatyam129/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 </details>
 
@@ -167,7 +167,9 @@
 
 </div>
 
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ysatyam129&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF" alt="Activity Graph" />
+</p>
 
 ---
 
@@ -207,16 +209,16 @@
 </div>
 
 <p align="center">
-  <a href="mailto:alex@example.com">
+  <a href="mailto:yadavsatyamsingh078@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=D14836"/>
   </a>
-  <a href="https://alexdev.com">
+  <a href="https://github.com/ysatyam129">
     <img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=000000"/>
   </a>
-  <a href="https://discord.gg/alexdev">
+  <a href="https://discord.gg/satyamsinghyadav">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white&labelColor=5865F2"/>
   </a>
-  <a href="https://t.me/alexdev">
+  <a href="https://t.me/satyamsinghyadav">
     <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white&labelColor=2CA5E0"/>
   </a>
 </p>
@@ -230,10 +232,10 @@
 </div>
 
 <p align="center">
-  <a href="https://buymeacoffee.com/alexdev">
+  <a href="https://buymeacoffee.com/satyamsinghyadav">
     <img src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black&labelColor=FFDD00"/>
   </a>
-  <a href="https://patreon.com/alexdev">
+  <a href="https://patreon.com/satyamsinghyadav">
     <img src="https://img.shields.io/badge/-Patreon-F96854?style=for-the-badge&logo=Patreon&logoColor=white&labelColor=F96854"/>
   </a>
 </p>
@@ -247,9 +249,9 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alexdev&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/alexdev?color=blue&style=for-the-badge&logo=github&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/alexdev?color=yellow&style=for-the-badge&logo=github&label=Stars" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=ysatyam129&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ysatyam129?color=blue&style=for-the-badge&logo=github&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/ysatyam129?color=yellow&style=for-the-badge&logo=github&label=Stars" alt="Stars" />
 </p>
 
 ---
@@ -261,7 +263,7 @@
 </div>
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=alexdev&count=1&unique=true" alt="Spotify" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=satyamsinghyadav&count=1&unique=true" alt="Spotify" />
 </p>
 
 ---
@@ -285,11 +287,11 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/alexdev/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexdev&repo=project1&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Project 1" />
+  <a href="https://github.com/ysatyam129/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ysatyam129&repo=project1&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Project 1" />
   </a>
-  <a href="https://github.com/alexdev/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexdev&repo=project2&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Project 2" />
+  <a href="https://github.com/ysatyam129/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ysatyam129&repo=project2&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Project 2" />
   </a>
 </p>
 
@@ -302,9 +304,9 @@
 </div>
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding React Hooks: A Complete Guide](https://alexdev.com/blog/react-hooks-guide)
-- [Building Scalable APIs with Node.js and Express](https://alexdev.com/blog/scalable-apis-nodejs)
-- [The Future of Web Development: Trends to Watch](https://alexdev.com/blog/future-web-development)
+- [Understanding React Hooks: A Complete Guide](https://github.com/ysatyam129/blog/react-hooks-guide)
+- [Building Scalable APIs with Node.js and Express](https://github.com/ysatyam129/blog/scalable-apis-nodejs)
+- [The Future of Web Development: Trends to Watch](https://github.com/ysatyam129/blog/future-web-development)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -346,5 +348,5 @@
 ---
 
 <div align="center">
-  <sub>💙 Made with love by <a href="https://github.com/alexdev">Satyam Singh Yadav</a></sub>
+  <sub>💙 Made with love by <a href="https://github.com/ysatyam129">Satyam Singh Yadav</a></sub>
 </div>
