@@ -100,10 +100,12 @@
 </div>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/-Java%20Development-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=ED8B00" alt="Java Development" />
+  <img src="https://img.shields.io/badge/-DevOps-326CE5?style=for-the-badge&logo=DevOps&logoColor=white&labelColor=326CE5" alt="DevOps" />
+  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white&labelColor=6DB33F" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white&labelColor=D24939" alt="Jenkins" />
   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white&labelColor=E10098" alt="GraphQL" />
   <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white&labelColor=FF6F00" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/-Blockchain-121D33?style=for-the-badge&logo=Blockchain.com&logoColor=white&labelColor=121D33" alt="Blockchain" />
-  <img src="https://img.shields.io/badge/-WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white&labelColor=654FF0" alt="WebAssembly" />
 </p>
 
 ---
@@ -185,16 +187,18 @@
   
 **🔭 Working On**
 - Building scalable web applications
+- Mastering Java enterprise development
+- Implementing DevOps best practices
 - Contributing to open source projects
-- Learning new technologies
 
 </td>
 <td align="center" width="50%">
   
 **🎓 Learning**
-- Advanced React patterns
+- Advanced Java frameworks (Spring Boot)
+- CI/CD pipelines & automation
+- Container orchestration
 - System design principles
-- Cloud architecture
 
 </td>
 </tr>
