@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Satyam%20Developer&fontSize=70&fontAlignY=35&animation=fadeIn" alt="Profile Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Full-Stack%20Developer&fontSize=70&fontAlignY=35&animation=fadeIn" alt="Profile Header"/>
 </div>
 
 # <div align="center">Hello, I'm Satyam Singh Yadav 👋</div>
@@ -319,38 +319,3 @@
   
 ### 🌟 Random Dev Fact
 
-</div>
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dark&qColor=%2358A6FF&aColor=%23C9D1D9&bgColor=%230D1117" alt="Random Dev Fact" />
-</p>
-
----
-
-<div align="center">
-  
-### 🎮 When I'm Not Coding
-
-</div>
-
-<p align="center">
-  🎵 Listening to music | 🎮 Playing games | 📚 Reading tech blogs | 🌍 Traveling | 📷 Photography
-</p>
-
----
-
-<div align="center">
-  
-**⭐ Star my repositories if you find them useful!**
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" alt="Footer"/>
-</div>
-
----
-
-<div align="center">
-  <sub>💙 Made with love by <a href="https://github.com/ysatyam129">Satyam Singh Yadav</a></sub>
-</div>
